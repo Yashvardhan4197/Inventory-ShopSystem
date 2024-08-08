@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\repos\\MAT2\\Inventory-ShopSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|H:\\repos\\MAT2\\Inventory-ShopSystem\\assets\\script\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|h:\\repos\\mat2\\inventory-shopsystem\\assets\\script\\inventory\\displayinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventory\\displayinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|H:\\repos\\MAT2\\Inventory-ShopSystem\\assets\\script\\inventory\\inventoryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventory\\inventoryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|h:\\repos\\mat2\\inventory-shopsystem\\assets\\script\\item\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|H:\\repos\\MAT2\\Inventory-ShopSystem\\assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|H:\\repos\\MAT2\\Inventory-ShopSystem\\assets\\script\\item\\equipmentitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\equipmentitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|H:\\repos\\MAT2\\Inventory-ShopSystem\\assets\\script\\item\\defaultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\defaultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|H:\\repos\\MAT2\\Inventory-ShopSystem\\assets\\script\\item\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E20673-79B3-82E9-3A82-301A97BDAB88}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Item\\FoodItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\FoodItem.cs",
+              "ToolTip": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Item\\FoodItem.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\FoodItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:44:08.355Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Controllers\\ShopController.cs",
+              "ToolTip": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Assets\\Script\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:09:19.394Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryObject.cs",
+              "DocumentMoniker": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Inventory\\InventoryObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Inventory\\InventoryObject.cs",
+              "ToolTip": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Inventory\\InventoryObject.cs",
+              "RelativeToolTip": "Assets\\Script\\Inventory\\InventoryObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:54:20.61Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DefaultItem.cs",
+              "DocumentMoniker": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Item\\DefaultItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\DefaultItem.cs",
+              "ToolTip": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Item\\DefaultItem.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\DefaultItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:48:51.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EquipmentItem.cs",
+              "DocumentMoniker": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Item\\EquipmentItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\EquipmentItem.cs",
+              "ToolTip": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Item\\EquipmentItem.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\EquipmentItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:46:06.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayInventory.cs",
+              "DocumentMoniker": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Inventory\\DisplayInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Inventory\\DisplayInventory.cs",
+              "ToolTip": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Inventory\\DisplayInventory.cs",
+              "RelativeToolTip": "Assets\\Script\\Inventory\\DisplayInventory.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwDgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:48:21.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerController.cs",
+              "ToolTip": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:44:59.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemSlot.cs",
+              "DocumentMoniker": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Item\\ItemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\ItemSlot.cs",
+              "ToolTip": "H:\\repos\\MAT2\\Inventory-ShopSystem\\Assets\\Script\\Item\\ItemSlot.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\ItemSlot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:42:32.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
